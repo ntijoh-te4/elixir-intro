@@ -5,7 +5,7 @@ Definera alla funktioner i modulen Intro (`lib/intro.ex`)
 
 ### Tester
 
-Skapa tester för funktionerna i `test/intro_test.exs` **innan** du skriver funktionerna.
+Skapa tester för funktionerna i `test/intro_test.exs` **innan** du skriver funktionen.
 
 Försök fundera på vilka input och/eller kombinationer av input som ska generera olika output.
 
