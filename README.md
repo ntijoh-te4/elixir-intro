@@ -43,6 +43,10 @@ Givet två integers som input ska funktionen returnera det lägsta värdet.
 
 Använd gärna guards
 
+#### Länkar
+
+[Hexdocs - Guards](https://hexdocs.pm/elixir/guards.html)
+
 ### 2. Largest of three
 
 Givet tre integers som input ska funktionen returnera det största värdet.
@@ -54,6 +58,8 @@ Använd gärna guards
 Givet fyra integers som Input ska funktionen returnera det lägsta värdet.
 
 Tänk på att elixir har function overloading för funktioner av olika aritet.
+
+* [Understanding Function Arity in Elixir](https://www.culttt.com/2016/05/02/understanding-function-arity-elixir)
 
 ### 4. TicketPrice
 
@@ -84,7 +90,6 @@ Den här uppgiften kräver rekursion. Computerphile har några bra filmer som f�
 
 * [What on earth is recursion? - Computerphile](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
 * [Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o)
-
 
 När man använder sig av rekursion är det viktigt att man har ett basfall, det vill säga ett fall som inte längre leder till ett rekursivt anrop.
 
@@ -124,7 +129,6 @@ Tar en List som input och returnerar sista elementet.
 Den här funktionen kräver rekursion. Fundera på hur basfallet ser ut - hur vet du att du kommit till den sista platsen i listan?
 
 * [A tender introduction to Elixir recursion](https://medium.com/@dlite/your-first-elixir-recursive-function-c2309d091bc6)
-
 
 ### 11. Prepend
 
@@ -206,7 +210,6 @@ Tar en sträng och ett tecken som input och returnerar en List, där elementen i
 * `split("1;2;3;4;5", ";") #=> ["1", "2", "3", "4", "5"]`
 * `split("Hello World", " ") #=> ["Hello", "World"]`
 * `split("This is a line\nthis is another line\nthis is a line too", "\n") #=> ["This is a line", "this is another line", "this is a line too"]`
-
 
 ### 28. Rovarize 
 
