@@ -1,9 +1,13 @@
 # Elixir intro-övningar
 
-
 Definera alla funktioner i modulen Intro (`lib/intro.ex`)
 
-### Tester
+## Installation
+
+`brew install elixir`
+
+
+## Tester
 
 Skapa tester för funktionerna i `test/intro_test.exs` **innan** du skriver funktionen.
 
@@ -45,7 +49,10 @@ Använd gärna guards
 
 #### Länkar
 
-[Hexdocs - Guards](https://hexdocs.pm/elixir/guards.html)
+* [Elixir School - Named Functions](https://elixirschool.com/en/lessons/basics/functions/#named-functions)
+* [Elixir School - Basic Data Types](https://elixirschool.com/en/lessons/basics/basics/#basic-data-types)
+* [Elixir School - Control Structures](https://elixirschool.com/en/lessons/basics/control-structures/)
+* [Hexdocs - Guards](https://hexdocs.pm/elixir/guards.html)
 
 ### 2. Largest of three
 
@@ -77,7 +84,7 @@ Tar ett heltal som input och ger nästa tal som output.
 
 Tar ett heltal n som input och returnerar n-fakultet.
 
-[Fakultet](https://sv.m.wikipedia.org/wiki/Fakultet_(matematik))
+[Wikipedia - Fakultet](https://sv.m.wikipedia.org/wiki/Fakultet_(matematik))
 
 #### Exempel
 1 -> 1
@@ -99,6 +106,11 @@ När man använder sig av rekursion är det viktigt att man har ett basfall, det
 
 Det är oftast bra att börja med att fundera ut basfallet, och lägga det överst bland funktionsdefinitionerna.
 
+#### Länkar
+
+* [Elixir School - Understanding Recursion with Elixir](https://elixirschool.com/blog/recursion/)
+* [Elixir Lang - Getting  Started - Recursion](https://elixir-lang.org/getting-started/recursion.html)
+
 ### 7. Fibonacci
 
 Tar en Integer "n" som input och returnerar det n:te Fibonaccitalet
@@ -115,6 +127,8 @@ Om det sista avsnittet om map i videon är förvirrande - hoppa över det så l�
 * [Linked Lists - Computerphile](https://www.youtube.com/watch?v=_jQhALI4ujg)
 
 I videon säger han dock att "the tail of the list is the last element", men när man pratar om "tail" i Elixir avser man *alla* element som inte är det första elementet i den del av listan som är kvar.
+
+#### Länkar
 
 * [ElixirSchool - Collections - Lists](https://elixirschool.com/en/lessons/basics/collections/#lists)
 * [HexDocs - List ](https://hexdocs.pm/elixir/master/List.html)
@@ -138,11 +152,18 @@ Den här funktionen kräver rekursion. Fundera på hur basfallet ser ut - hur ve
 
 Tar en List och en Integer som input och returnerar en List bestående av integern och listan (med integern på första plats).
 
+Försök använda cons-operatorn (`|`)
+
+#### Länkar
+
+
 ### 12. Append
 
 Tar en List och en Integer som input och returnerar en List bestående av integern och listan (med integern på sista plats).
 
 Yay! Mer rekursion!
+
+Försök använda cons-operatorn (`|`)
 
 ### 13. Length
 
@@ -220,12 +241,12 @@ Tar en sträng och ett tecken som input och returnerar en List, där elementen i
 Tar en sträng och omvandlar strängen från svenska till rövarspråket.
 
 #### Exempel
+
 * `rovarize("Bajsar björnar i skogen?") #=> "Bobajojsosaror bobjojörornonaror i soskokogogenon"`
 
 #### Länkar
 
 * [Rövarspråket - Wikipedia](https://sv.wikipedia.org/wiki/R%C3%B6varspr%C3%A5ket)
-
 
 ### 29. Derovarize
 
