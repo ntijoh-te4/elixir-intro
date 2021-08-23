@@ -75,6 +75,10 @@ Tar ett heltal som input och ger nästa tal som output.
 
 ### 6. Factorial
 
+Tar ett heltal n som input och returnerar n-fakultet.
+
+[Fakultet](https://sv.m.wikipedia.org/wiki/Fakultet_(matematik))
+
 #### Exempel
 1 -> 1
 2 -> 2
