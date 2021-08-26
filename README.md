@@ -192,6 +192,10 @@ Använd cons-operatorn (`|`) och rekursion (inte `++`).
 
 Tar en sträng och ett tecken som input och returnerar true/false beroende på om strängen börjar med tecknet eller ej.
 
+#### Tips
+
+Omvandla strängen till en lista av tecken med hjälp av [`String.graphemes`](https://hexdocs.pm/elixir/1.12/String.html#graphemes/1) 
+
 ### 18. Ends With
 
 Tar en sträng och ett tecken som input och returnerar true/false beroende på om strängen slutar med tecknet eller ej.
