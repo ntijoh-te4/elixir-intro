@@ -87,6 +87,8 @@ Tar ett heltal n som input och returnerar n-fakultet.
 [Wikipedia - Fakultet](https://sv.m.wikipedia.org/wiki/Fakultet_(matematik))
 
 #### Exempel
+
+```
 1 -> 1
 2 -> 2
 3 -> 6
@@ -94,6 +96,7 @@ Tar ett heltal n som input och returnerar n-fakultet.
 5 -> 120
 6 -> 720
 8 -> 40320
+```
 
 #### Tips
 
