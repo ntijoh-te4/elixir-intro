@@ -21,6 +21,8 @@ Exempeltest för första uppgiften:
 
 ```elixir
 defmodule IntroTest do
+  use ExUnit.Case
+
   test "smallest of two when smallest is first" do
     assert Intro.smallest(1,2) == 1
   end
