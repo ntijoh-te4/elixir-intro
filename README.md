@@ -49,10 +49,10 @@ Använd gärna guards
 
 #### Länkar
 
-* [Elixir School - Named Functions](https://elixirschool.com/en/lessons/basics/functions/#named-functions)
-* [Elixir School - Basic Data Types](https://elixirschool.com/en/lessons/basics/basics/#basic-data-types)
+* [Elixir School - Named Functions](https://elixirschool.com/en/lessons/basics/functions/#named-functions-2)
+* [Elixir School - Basic Data Types](https://elixirschool.com/en/lessons/basics/basics/#basic-data-types-3)
 * [Elixir School - Control Structures](https://elixirschool.com/en/lessons/basics/control-structures/)
-* [Hexdocs - Guards](https://hexdocs.pm/elixir/guards.html)
+* [Hexdocs - Guards](https://hexdocs.pm/elixir/1.6.5/guards.html)
 
 ### 2. Largest of three
 
@@ -134,14 +134,14 @@ I videon säger han dock att "the tail of the list is the last element", men nä
 #### Länkar
 
 * [ElixirSchool - Collections - Lists](https://elixirschool.com/en/lessons/basics/collections/#lists)
-* [HexDocs - List ](https://hexdocs.pm/elixir/master/List.html)
+* [HexDocs - List ](https://hexdocs.pm/elixir/List.html#content)
 
 ### 9. First of
 
 Tar en List som input och returnerar det första elementet.
 
 * [ElixirSchool - Collections - Lists](https://elixirschool.com/en/lessons/basics/collections/#lists)
-* [HexDocs - List ](https://hexdocs.pm/elixir/master/List.html)
+* [HexDocs - List ](https://hexdocs.pm/elixir/List.html#content)
 
 ### 10. Last of
 
@@ -197,7 +197,7 @@ Tar en sträng och ett tecken som input och returnerar true/false beroende på o
 
 #### Tips
 
-Omvandla strängen till en lista av tecken med hjälp av [`String.graphemes`](https://hexdocs.pm/elixir/1.12/String.html#graphemes/1) 
+Omvandla strängen till en lista av tecken med hjälp av [`String.graphemes`](https://hexdocs.pm/elixir/String.html#graphemes/1)
 
 ### 18. Ends With
 
