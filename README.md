@@ -43,7 +43,6 @@ För att manuellt testa dina funktioner med egna värden i iex, kör `iex -S mix
 
 ### Länkar
 * [Elixir School - Testing](https://elixirschool.com/en/lessons/testing/basics)
-* [Elixir Crash Course (Youtube) - #21: ExUnit (unit testing)](https://youtu.be/J5pZRUMzS3M?si=halyqJBQPDgFprNu)
 
 ## Övningar
 
