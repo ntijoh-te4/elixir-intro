@@ -43,7 +43,7 @@ För att manuellt testa dina funktioner med egna värden i iex, kör `iex -S mix
 
 ### Länkar
 * [Elixir School - Testing](https://elixirschool.com/en/lessons/testing/basics)
-* [Elixir Crash Course (Youtube) #21: ExUnit (unit testing)](https://youtu.be/J5pZRUMzS3M?si=halyqJBQPDgFprNu)
+* [Elixir Crash Course (Youtube) - #21: ExUnit (unit testing)](https://youtu.be/J5pZRUMzS3M?si=halyqJBQPDgFprNu)
 
 ## Övningar
 
@@ -58,9 +58,9 @@ Använd gärna guards
 * [Elixir School - Named Functions](https://elixirschool.com/en/lessons/basics/functions/#named-functions-2)
 * [Elixir School - Basic Data Types](https://elixirschool.com/en/lessons/basics/basics/#basic-data-types-3)
 * [Elixir School - Control Structures](https://elixirschool.com/en/lessons/basics/control-structures/)
-* [Elixir Crash Course (Youtube) - Elixir Crash Course #2: Basic Types](https://youtu.be/aPLXOiaU-Ik?si=lgBQElyIVXtKMIlQ)
-* [Elixir Crash Course (Youtube) - Elixir Crash Course #14: Pattern matching](https://youtu.be/kXqdkAnHXiE?si=kLqNORhzJSy4xiGC)
-* [Elixir Crash Course (Youtube) - Elixir Crash Course #15: Guards](https://youtu.be/YMr25ULDmuk?si=jfflfwojkg7FOkol)
+* [Elixir Crash Course (Youtube) - #2: Basic Types](https://youtu.be/aPLXOiaU-Ik?si=lgBQElyIVXtKMIlQ)
+* [Elixir Crash Course (Youtube) - #14: Pattern matching](https://youtu.be/kXqdkAnHXiE?si=kLqNORhzJSy4xiGC)
+* [Elixir Crash Course (Youtube) - #15: Guards](https://youtu.be/YMr25ULDmuk?si=jfflfwojkg7FOkol)
 * [Hexdocs - Guards](https://hexdocs.pm/elixir/1.6.5/guards.html)
 
 ### 2. Largest of three
@@ -122,8 +122,8 @@ Det är oftast bra att börja med att fundera ut basfallet, och lägga det över
 
 * [Elixir School - Understanding Recursion with Elixir](https://elixirschool.com/blog/recursion/)
 * [Elixir Lang - Getting  Started - Recursion](https://elixir-lang.org/getting-started/recursion.html)
-* [Elixir Crash Course (Youtube) - Elixir Crash Course #3: Functional Programming and immutability](https://youtu.be/fOyofP1__K0?si=q8nw-zNDUMV2lxYY)
-* [Elixir Crash Course (Youtube) - Elixir Crash Course #17: Recursion](https://youtu.be/Io2Cwb_H4Eg?si=FDW6vcWmtDm_CgyV)
+* [Elixir Crash Course (Youtube) - #3: Functional Programming and immutability](https://youtu.be/fOyofP1__K0?si=q8nw-zNDUMV2lxYY)
+* [Elixir Crash Course (Youtube) - #17: Recursion](https://youtu.be/Io2Cwb_H4Eg?si=FDW6vcWmtDm_CgyV)
   
 
 ### 7. Fibonacci
@@ -153,7 +153,7 @@ I videon säger han dock att "the tail of the list is the last element", men nä
 Tar en List som input och returnerar det första elementet.
 
 * [ElixirSchool - Collections - Lists](https://elixirschool.com/en/lessons/basics/collections/#lists)
-* [Elixir Crash Course (Youtube) #4: Lists](https://youtu.be/gHiZzWSeSZE?si=hGU6tsxWDOzkFAT4)
+* [Elixir Crash Course (Youtube) - #4: Lists](https://youtu.be/gHiZzWSeSZE?si=hGU6tsxWDOzkFAT4)
 * [HexDocs - List ](https://hexdocs.pm/elixir/List.html#content)
 
 ### 10. Last of
